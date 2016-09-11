@@ -1,0 +1,2 @@
+* Sat Sep 10 2016 Ryan Parman <ryan.parman@wepay.com> 0.6.1-1
+- Bundles Vault 0.6.1.
