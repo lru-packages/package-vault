@@ -1,3 +1,6 @@
+* Sat Dec 17 2016 Ryan Parman <ryan@ryanparman.com> 0.6.4-1
+- Bundles Vault 0.6.4.
+
 * Sat Dec 10 2016 Ryan Parman <ryan@ryanparman.com> 0.6.3-1
 - Bundles Vault 0.6.3.
 
