@@ -1,5 +1,5 @@
 NAME=vault
-VERSION=0.6.4
+VERSION=0.6.5
 EPOCH=1
 ITERATION=1
 PREFIX=/usr/local/bin
