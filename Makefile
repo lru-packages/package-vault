@@ -1,5 +1,5 @@
 NAME=vault
-VERSION=0.8.3
+VERSION=0.9.0
 ITERATION=1.lru
 PREFIX=/usr/local/bin
 LICENSE=BSD
