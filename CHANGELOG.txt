@@ -1,3 +1,6 @@
+* Wed Mar 7 2018 Ryan Parman <ryan@ryanparman.com> 0.9.5-1
+- Bundles Vault 0.9.5.
+
 * Thu Nov 16 2017 Ryan Parman <ryan@ryanparman.com> 0.9.0-1
 - Bundles Vault 0.9.0.
 
